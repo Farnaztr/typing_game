@@ -9,5 +9,6 @@ A fast and fun typing speed game built with **Python**!
 Clone the repository and run the script:  
 
 ```bash
+git clone https://farnaztr.github.io/typing_game/
 cd typing-game
 python main.py
