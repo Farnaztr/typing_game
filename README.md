@@ -5,14 +5,6 @@ A fast and fun typing speed game built with **Python**!
  
 ---
 
-## Let's Connect
-
-- Email: `farnaztarabi@gmail.com`
-- Telegram: 'https://t.me/CodeMatrixx'
-- YouTube: 'https://www.youtube.com/@here-bitzone'
-
----
-
 ##  **How to Install and Run**  
 
 Clone the repository and run the script:  
