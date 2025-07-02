@@ -7,6 +7,6 @@ A fast and fun typing speed game built with **Python**!
 
 <p align="center">
   <img src="https://img.shields.io/badge/Author-farnaztr-grey" />
-  <img src="https://img.shields.io/badge/Project-WiFiHunter-purple" />
+  <img src="https://img.shields.io/badge/Project-typing_game-purple" />
 </p>
 
