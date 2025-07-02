@@ -35,7 +35,7 @@ The game is designed to test your typing speed and accuracy under pressure.
 python typemaster.py
 
 1. Make sure Python 3 is installed on your system.
-2. Save the script as `typemaster.py`.
+2. Save the script as `type.py`.
 3. Open terminal or command prompt and run:
 
 python typer.py
