@@ -5,11 +5,8 @@ A fast and fun typing speed game built with **Python**!
  
 ---
 
-##  **How to Install and Run**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Author-farnaztr-grey" />
+  <img src="https://img.shields.io/badge/Project-WiFiHunter-purple" />
+</p>
 
-Clone the repository and run the script:  
-
-```bash
-git clone https://farnaztr.github.io/typing_game/
-cd typing_game
-python type.py
