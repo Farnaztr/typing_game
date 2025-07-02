@@ -1,9 +1,9 @@
-# TypeMaster - Fast Typing Game in Python
+# Typing_game - Fast Typing Game in Python
 
 <p align="center">
   <img src="https://img.shields.io/badge/Author-farnaztr-grey" />
   <img src="https://img.shields.io/badge/Language-Python-blue" />
-  <img src="https://img.shields.io/badge/Game-TypeMaster-green" />
+  <img src="https://img.shields.io/badge/Game-typing_game-black" />
 </p>
 
 ---
