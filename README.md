@@ -38,5 +38,4 @@ python typemaster.py
 2. Save the script as `typemaster.py`.
 3. Open terminal or command prompt and run:
 
-```bash
-python typemaster.py
+python typer.py
