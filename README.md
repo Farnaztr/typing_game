@@ -1,12 +1,42 @@
-Typing Speed Game⌨️  
-
-A fast and fun typing speed game built with **Python**!  
- Test your typing skills by typing sentences correctly within **15 seconds** — you have **3 attempts**!  
- 
----
+# TypeMaster - Fast Typing Game in Python
 
 <p align="center">
   <img src="https://img.shields.io/badge/Author-farnaztr-grey" />
-  <img src="https://img.shields.io/badge/Project-typing_game-purple" />
+  <img src="https://img.shields.io/badge/Language-Python-blue" />
+  <img src="https://img.shields.io/badge/Game-TypeMaster-green" />
 </p>
 
+---
+
+## About the Game
+
+**TypeMaster** is a simple and fun command-line typing game built with **Python**.  
+You’ll be given a random sentence to type, and your goal is to type it **correctly** within **15 seconds**.  
+The game is designed to test your typing speed and accuracy under pressure.
+
+---
+
+## Features
+
+- ⏱️ 15-second time limit for each attempt
+- 🧪 Compares your input with original sentence (case-insensitive)
+- 🎯 Random sentence generation from a preset list
+- 💥 3 attempts before game over
+- 🔁 Instant feedback on success or failure
+
+---
+## How to Run
+
+1. Make sure Python 3 is installed on your system.
+2. Save the script as `type.py`.
+3. Open terminal or command prompt and run:
+
+```bash
+python typemaster.py
+
+1. Make sure Python 3 is installed on your system.
+2. Save the script as `typemaster.py`.
+3. Open terminal or command prompt and run:
+
+```bash
+python typemaster.py
