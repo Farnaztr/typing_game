@@ -37,5 +37,4 @@ python typemaster.py
 1. Make sure Python 3 is installed on your system.
 2. Save the script as `type.py`.
 3. Open terminal or command prompt and run:
-
-python typer.py
+python type.py
