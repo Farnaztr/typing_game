@@ -1,18 +1,13 @@
 # Typing_game - Fast Typing Game in Python
 
+**TypeMaster** is a simple and fun command-line typing game built with **Python**.  
+You’ll be given a random sentence to type, and your goal is to type it **correctly** within **15 seconds**.  
+The game is designed to test your typing speed and accuracy under pressure.
 <p align="center">
   <img src="https://img.shields.io/badge/Author-farnaztr-pink" />
   <img src="https://img.shields.io/badge/Language-Python-blue" />
   <img src="https://img.shields.io/badge/Game-typing_game-black" />
 </p>
-
----
-
-## About the Game
-
-**TypeMaster** is a simple and fun command-line typing game built with **Python**.  
-You’ll be given a random sentence to type, and your goal is to type it **correctly** within **15 seconds**.  
-The game is designed to test your typing speed and accuracy under pressure.
 
 ---
 
